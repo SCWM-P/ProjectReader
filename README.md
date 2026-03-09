@@ -78,7 +78,6 @@ class DataProcessor:
     def __init__(self, config: dict): ...
     async def process_batch(self, data: list) -> bool: ...
 ```
-```
 
 ---
 
