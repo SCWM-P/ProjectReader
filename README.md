@@ -1,4 +1,5 @@
 # ProjectReader for LLMs
+
 > **The Ultimate Zero-Dependency Codebase Packer for LLMs.**
 > 
 > 停止无意义的复制粘贴。一键将你的本地项目打包成完美的 LLM 上下文。
